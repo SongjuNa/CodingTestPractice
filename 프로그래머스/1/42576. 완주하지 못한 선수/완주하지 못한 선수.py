@@ -1,3 +1,5 @@
+# 해시 기초 문제!
+
 def solution(participant, completion):
     incompletion = {}
     
