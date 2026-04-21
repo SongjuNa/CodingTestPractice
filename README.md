@@ -24,6 +24,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SongjuNa/CodingTestPractice/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/SongjuNa/CodingTestPractice/tree/master/0058-length-of-last-word) |
 ## Binary Search
 |  |
 | ------- |
