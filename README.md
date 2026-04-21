@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SongjuNa/CodingTestPractice/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/SongjuNa/CodingTestPractice/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SongjuNa/CodingTestPractice/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SongjuNa/CodingTestPractice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
