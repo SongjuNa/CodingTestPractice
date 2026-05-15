@@ -1,6 +1,5 @@
 def solution(numbers):
-    total = 0
-    for i in numbers:
-        total += int(i)
-    answer = total/len(numbers)
-    return answer
+    sum = 0
+    for i in range(len(numbers)):
+        sum += numbers[i]
+    return sum/len(numbers)
