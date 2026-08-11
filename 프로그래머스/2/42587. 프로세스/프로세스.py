@@ -14,6 +14,6 @@ def solution(priorities, location):
         else:
             answer += 1
             
-            # 방금 인쇄한 값이 location
+            #방금 실행 완료한 값이 location
             if cur[0] == location:
                 return answer
